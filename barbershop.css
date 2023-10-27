@@ -126,14 +126,14 @@ input[type="submit"]{
 #herofloor {
     height: 360px;
     margin-left: 190px;
-    background-image: url(images/heroshopfloor.jpg);
+    background-image: url(Images/heroshopfloor.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 #heroproduct {
     height: 360px;
     margin-left: 190px;
-    background-image: url(images/product.jpg);
+    background-image: url(Images/product.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
